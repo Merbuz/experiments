@@ -1,2 +1,1 @@
-# experiments
-this is python experiments for.... i don't know.
+this is just repository for experiments. Please don't use code without permission. Thank you!
